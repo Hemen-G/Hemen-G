@@ -1,7 +1,5 @@
 <h2 align="left">Hi, I'm Hemen Girma<br>4th-year Software Engineering Student at Adama Science and Technology University | Frontend Developer | AI/ML Enthusiast Building Computer Vision Systems</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
